@@ -12,5 +12,7 @@
 
 ## 📚 Bibliotecas Utilizadas
 ●	Streamlit: para criação da interface web interativa.
+
 ●	Pandas: manipulação e organização dos dados em tabelas.
+
 ●	Scikit-learn: cálculo da similaridade do cosseno entre filmes.
